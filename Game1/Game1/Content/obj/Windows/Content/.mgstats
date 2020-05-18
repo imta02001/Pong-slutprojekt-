@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/Programmering/Pong/Pong/Game1/Game1/Content/defaultFont.spritefont","E:/Programmering/Pong/Pong/Game1/Game1/Content/bin/Windows/Content/defaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",2010,37905,0.2519935
+"E:/Programmering/Pong/Pong/Game1/Game1/Content/menuFontNormal.bmp","E:/Programmering/Pong/Pong/Game1/Game1/Content/bin/Windows/Content/menuFontNormal.xnb","FontTextureProcessor","SpriteFontContent",1468710,545764,0.1715381
+"E:/Programmering/Pong/Pong/Game1/Game1/Content/menuFontSelected.bmp","E:/Programmering/Pong/Pong/Game1/Game1/Content/bin/Windows/Content/menuFontSelected.xnb","FontTextureProcessor","SpriteFontContent",1468710,545764,0.0418876
+"E:/Programmering/Pong/Pong/Game1/Game1/Content/pixel.png","E:/Programmering/Pong/Pong/Game1/Game1/Content/bin/Windows/Content/pixel.xnb","TextureProcessor","Texture2DContent",119,89,0.1027241
+"E:/Programmering/Pong/Pong/Game1/Game1/Content/scorefont.spritefont","E:/Programmering/Pong/Pong/Game1/Game1/Content/bin/Windows/Content/scorefont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.2611345
